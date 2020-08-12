@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gt-hw-20-final/static/css/main.b6c5ba28.chunk.css",
+    "main.js": "/gt-hw-20-final/static/js/main.051ebf31.chunk.js",
+    "main.js.map": "/gt-hw-20-final/static/js/main.051ebf31.chunk.js.map",
+    "runtime-main.js": "/gt-hw-20-final/static/js/runtime-main.744c7826.js",
+    "runtime-main.js.map": "/gt-hw-20-final/static/js/runtime-main.744c7826.js.map",
+    "static/js/2.e6ebb2a9.chunk.js": "/gt-hw-20-final/static/js/2.e6ebb2a9.chunk.js",
+    "static/js/2.e6ebb2a9.chunk.js.map": "/gt-hw-20-final/static/js/2.e6ebb2a9.chunk.js.map",
+    "index.html": "/gt-hw-20-final/index.html",
+    "precache-manifest.d4ae38b0131be05087198721e815716f.js": "/gt-hw-20-final/precache-manifest.d4ae38b0131be05087198721e815716f.js",
+    "service-worker.js": "/gt-hw-20-final/service-worker.js",
+    "static/css/main.b6c5ba28.chunk.css.map": "/gt-hw-20-final/static/css/main.b6c5ba28.chunk.css.map",
+    "static/js/2.e6ebb2a9.chunk.js.LICENSE.txt": "/gt-hw-20-final/static/js/2.e6ebb2a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.744c7826.js",
+    "static/js/2.e6ebb2a9.chunk.js",
+    "static/css/main.b6c5ba28.chunk.css",
+    "static/js/main.051ebf31.chunk.js"
+  ]
+}
