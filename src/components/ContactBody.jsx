@@ -65,7 +65,7 @@ export default function ImgMediaCard() {
           <CardActions>
             <Button size="large" color="primary">
               <a
-                href="https://docs.google.com/document/d/1RcjhjXo1_0ogXtvjdYHrZ7U78nBEPwMM7ilpicaMSUg/edit"
+                href="https://docs.google.com/document/d/1HZGpCV0m9G3lzKxhSVhm-9rkzd05JQIXbiEWeq502M0/edit?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
